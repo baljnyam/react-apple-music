@@ -10,15 +10,15 @@ injectGlobal`
 `;
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <MusicJS />
-      </div>
-    );
-  }
+   render() {
+      return (
+         <div className="App">
+            <MusicJS />
+         </div>
+      );
+   }
 }
 
-document.addEventListener('touchstart', function () { }, true);
+document.addEventListener('touchstart', function() {}, true);
 
 export default App;
