@@ -1,3 +1,4 @@
+<img src="https://github.com/baljnyam/react-apple-music/blob/master/apple-music.png" alt="apple-music"/>
 projects source: https://github.com/tvillarete/apple-music-js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
